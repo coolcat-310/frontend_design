@@ -1,0 +1,26 @@
+@charset "UTF-8";
+/* CSS Document */
+.test{background:lightblue;}
+.round {
+
+    border-radius: 10px;
+  }
+.thick-white-border {
+    border-color: white;
+    border-width: 10px;
+    border-style: solid;
+  }
+.silver-background {
+  background-color: silver;
+}
+.indent {
+    text-indent: 50px;
+}
+
+.quote {
+    display: block;
+    margin-top: 1em;
+    margin-bottom: 1em;
+    margin-left: 40px;
+    margin-right: 40px;
+}
